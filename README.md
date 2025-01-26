@@ -1,5 +1,10 @@
-<h2 align="left">Hi 👋! My name is Bisma Azam and I'm a Webdeveloper</h2>
+ <h1 align="left">Hi 👋,  My name is Bisma Azam and I'm a Full Stack developer</h1>
 
+- 🔭 I’m currently working as a frontened developer
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Frontened 
+- 📫 How to reach me: bismaazam60kk@gmail.com
+- ⚡ Fun fact: I'm comming to teen
 ###
 
 <div align="center">
@@ -44,6 +49,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
 ###
